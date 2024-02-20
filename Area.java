@@ -1,6 +1,6 @@
 public class Area{
-    public int addition(int x,int y){
-    return x+y;}
+    public int multiplication(int value,int h){
+    return value*h;}
     public static void main(String[] args) {
         
     }
