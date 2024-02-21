@@ -1,7 +1,6 @@
-public class Area{
-    public int addition(int x,int y){
-    return x+y;}
-    public static void main(String[] args) {
-        
+public class Multiplication{
+        public int multiply(int a, int b,int h){
+　　　  int add=Area.addition(a,b);
+        return (add/2)*h;
     }
 }
